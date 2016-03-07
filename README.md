@@ -1,5 +1,4 @@
 # ecs
-#ecs
 
 This is a Elevator control system implemented in python.
 
