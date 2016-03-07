@@ -13,7 +13,6 @@ To run:
 
 	* status
 	* step
-	* update
 	* pickup <pickup_floor> <direction>
 	* debug 
 	* info 
